@@ -16,8 +16,8 @@ The main aim of the project was to analyse and create a pipeline for the NYC Yel
 
 ### Dashboard
 Below are the snapshots of the dashboard generated using the fact tables in bigquery
-![rev](./dashboard/revKPI)
+![rev](./dashboard/revKPI.png)
 
-![trip](./dashboard/tripKPI)
+![trip](./dashboard/tripKPI.png)
 
 Click [here](https://lookerstudio.google.com/reporting/24cca208-4879-493e-8c4e-c28c17b4f7ff) to view the dashboard on looker.
